@@ -1,0 +1,23 @@
+[33mcommit 37eca883806830ba05ecde4904dbc5e6888c642a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster1[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ram <ram@gmail.com>
+Date:   Sat Jan 20 06:46:25 2024 +0000
+
+    m1
+
+[1mdiff --git a/code.txt b/code.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/log.txt b/log.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..61aae3e[m
+[1m--- /dev/null[m
+[1m+++ b/log.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthis is my file[m
+[1mdiff --git a/output.txt b/output.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..026494b[m
+[1m--- /dev/null[m
+[1m+++ b/output.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello this is what[m
